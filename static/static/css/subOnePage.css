@@ -120,7 +120,7 @@ div.imgBd img{
 	line-height:25px;
 	margin-left:5px;
 	padding-bottom:8px;
-	background:url(../image/line1.png) repeat-x left bottom;
+	background:url(../image/Line1) repeat-x left bottom;
 }
 .iconT{
 	line-height:25px;
@@ -136,6 +136,6 @@ div.imgBd img{
 	background:url(../image/ICON2.gif) no-repeat left center;
 }
 .ulnewsList li.icngifBg2:hover{
-	background:url(../image/right12.gif) no-repeat left center;
+	background:url(../image/ICON4.gif) no-repeat left center;
 }
 

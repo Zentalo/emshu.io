@@ -104,7 +104,7 @@ ul.NonumList>li{
 .icnArrowR9{background:url(../image/right9.gif) no-repeat left center;}
 .icnArrowR10{background:url(../image/ICON5.gif) no-repeat left center;}
 .icnArrowR11{background:url(../image/right11.gif) no-repeat left center;}
-.icnArrowR12{background:url(../image/right12.gif) no-repeat left center;}
+.icnArrowR12{background:url(../image/ICON4.gif) no-repeat left center;}
 .icnHome1{background:url(../image/home1.gif) no-repeat left center;}
 .icnHome2{background:url(../image/home2.gif) no-repeat left center;}
 .icnHome3{background:url(../image/home3.gif) no-repeat left center;}
@@ -147,7 +147,7 @@ ul.NonumList>li{
 .lineBottomBlue,.lineTopBlue{
 	width:98%;
 	height:30px;
-	background:url(../image/line1.png) repeat-x left top;
+	background:url(../image/Line1) repeat-x left top;
 	background-position:left 25px;
 	margin-right:10px;
 	margin-bottom:10px;
