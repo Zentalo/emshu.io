@@ -1,0 +1,121 @@
+
+#templatemo_left {
+	width: 600px;
+	float: left;
+}
+
+.templatemo_post {
+	width:	600px;
+	margin: 0 0 10px 0 ;
+}
+
+.templatemo_post_title {
+	width: 580px;
+	height: 30px;
+	background:url(../image/templatemo_post_title.jpg) no-repeat;
+	font-family:"楷体", "宋体";
+	font-size: 18px;
+	color:#333;
+	padding: 10px 0 0 20px;
+	margin: 0;
+	line-height:18px;
+}
+
+.templatemo_post_title a {
+	color: #666;
+	text-decoration: none;
+}
+
+.templatemo_post_title a:hover {
+	color: #0099CC;
+}
+
+.templatemo_post_text {
+	width: 558px;
+	border-left: 1px #cccccc solid;
+	border-right: 1px #cccccc solid;
+	padding: 20px 20px 10px 20px;
+}
+
+.templatemo_post_text img {
+	float:left;
+	margin: 0 10px 10px 0;
+	border: 1px solid #ccc;
+	padding: 5px;
+}
+.templatemo_post_text ul{
+	list-style:none;}
+.templatemo_post_text ul li{
+	line-height:1.5em;}	
+.templatemo_post_bottom {
+	width: 580px;
+	height: 30px;
+	background: url(../image/templatemo_post_bottom.jpg) no-repeat;
+	font-size: 12px;
+	text-align: right;
+	padding: 10px 20px 0 0;
+	margin: 0;
+}
+
+.templatemo_post_bottom a {
+	color: #666;
+	text-decoration: none;
+}
+
+.templatemo_post_bottom a:hover {
+	color: #0066CC;
+	text-decoration: underline;
+	
+}
+
+#templatemo_right {
+	float: right;
+	width: 300px;
+}
+
+.templatemo_section {
+	width: 300px;
+	margin: 0 0 30px 0;
+}
+
+.templatemo_section_title {
+	width: 278px;
+	height: 30px;
+	background:  url(../image/templatemo_section_title.jpg);
+	border-left: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+	font-family:"楷体", "宋体";
+	font-size: 18px;
+	color: #333;
+	padding: 10px 0 0 20px;
+	line-height:18px;
+}
+.templatemo_list{
+	padding:0px 5px 5px 20px;
+}
+.templatemo_list li{
+	line-height:1.8em;}
+.templatemo_section_bottom {
+	width: 278px;
+	background: url(../image/templatemo_section_bottom.jpg) bottom no-repeat;
+	border-left: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+	padding: 5px 10px 18px 10px;
+}
+
+
+.templatemo_section_1 {
+	width: 178px;
+	float: left;
+	border: 1px solid #292929;
+	padding: 20px 20px 10px 20px;
+	margin: 0 20px 0 0;
+}
+
+.templatemo_section_2 {
+	width: 408px;
+	float: right;
+	border: 1px solid #292929;
+	padding: 20px 20px 10px 20px;
+	margin: 0;
+}
